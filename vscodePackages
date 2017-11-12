@@ -1,0 +1,17 @@
+vscode packages: {
+    npm Intellisense,
+    Path Intellisense,
+    Prettier,
+    React Native Tools,
+    Version Lens,
+    vscode-icon,
+    WakaTime,
+    Auto Close Tag,
+    Auto Rename Tag,
+    Cobalt2 Theme,
+    Color Highlight,
+    ESlint,
+    Import Cost,
+    IntelliSense for CSS class names,
+    Material Palenight Theme for VS Code
+}

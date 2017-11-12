@@ -1,0 +1,38 @@
+{
+  "workbench.startupEditor": "welcomePage",
+  "workbench.colorTheme": "Material Palenight for Operator Mono",
+  "workbench.activityBar.visible": true,
+  "workbench.sideBar.location": "left",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#9510ee",
+    "editor.wordHighlightBackground": "#9510ee70",
+    "editor.wordHighlightStrongBackground": "#9510eeDD"
+  },
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Operator Mono Lig,Operator Mono Lig Book",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "extensions.ignoreRecommendations": true,
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "auto-close-tag.SublimeText3Mode": true,
+  "auto-close-tag.enableAutoCloseSelfClosingTag": false,
+  "path-intellisense.autoSlashAfterDirectory": true,
+  "window.menuBarVisibility": "toggle",
+  "npm-intellisense.importLinebreak": "\r\n",
+  "color-highlight.matchWords": true,
+  "color-highlight.markerType": "background",
+  "importCost.mediumPackageColor": "#BDB76B",
+  "prettier.eslintIntegration": true,
+  "prettier.semi": false,
+  "prettier.printWidth": 125,
+  "prettier.singleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.options": {
+    "configFile": "/home/mrsltun/.eslintrc"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "spotify.showMuteUnmuteVolumeButton": false,
+  "spotify.showNextButton": false,
+  "spotify.showPreviousButton": false
+}
